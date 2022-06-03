@@ -1,6 +1,6 @@
 # Автор: Василь Онуфрійчук
 # Ехо бот для телеграма.
-# https://github.com/8a7l/ebtg
+# https://github.com/8a7l/py_ebtg
 import logging
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext, MessageHandler, Filters
